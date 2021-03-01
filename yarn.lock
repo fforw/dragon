@@ -4194,10 +4194,10 @@ tar@^4:
     safe-buffer "^5.1.2"
     yallist "^3.0.3"
 
-three@^0.80.1:
-  version "0.80.1"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.80.1.tgz#05f6d6710e5ec7b59a4e8a4be0897920516ebf6f"
-  integrity sha1-BfbWcQ5ex7WaTopL4Il5IFFuv28=
+three@^0.125.0:
+  version "0.125.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.125.0.tgz#19e922b9dc51ad0b706893aeee888de68e99850a"
+  integrity sha512-qL36qUGsPQ/Ofo/RZdXwHwM7A8wzUSAIyawtjIebJSPvounUQeneSqxI0aBY2iwKpseGy+RUtj3C5f/z4poyXw==
 
 through2@^0.6.3:
   version "0.6.5"
